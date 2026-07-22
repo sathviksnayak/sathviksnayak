@@ -15,11 +15,11 @@ Final-year Engineering student interested in Full-Stack Development and Blockcha
 
 ### Featured Projects
 
-**[AI Report Maker](#)**
+**[AI Report Maker](https://github.com/sathviksnayak/REPORT-MAKER)**
 AI-powered DOCX report rewriting tool that regenerates content while preserving original formatting.
 `React` `Node.js`
 
-**[Vickrey Sealed Bid Auction](#)**
+**[Vickrey Sealed Bid Auction](https://github.com/sathviksnayak/vickrey-sealed-bid-auction)**
 A Solidity implementation of a sealed-bid, second-price auction using a commit-reveal scheme.
 `Solidity` `Hardhat`
 
