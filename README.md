@@ -1,4 +1,4 @@
-# Hi, I'm Sathvik S Nayak 👋
+# Hi, I'm Sathvik S Nayak
 
 Final-year Engineering student interested in Full-Stack Development and Blockchain. I enjoy building end-to-end projects, solving DSA problems on LeetCode, and am currently learning Next.js.
 
@@ -6,21 +6,34 @@ Final-year Engineering student interested in Full-Stack Development and Blockcha
 
 ### Tech Stack
 
-**Languages:** C++, JavaScript, Solidity
-**Frontend:** React, Next.js (Learning), Tailwind CSS
-**Backend:** Node.js, Express, MongoDB
-**Tools:** Git
+**Languages**
+- C++
+- JavaScript
+- Solidity
+
+**Frontend**
+- React
+- Next.js (Learning)
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express
+- MongoDB
+
+**Tools**
+- Git
 
 ---
 
 ### Featured Projects
 
 **[AI Report Maker](https://github.com/sathviksnayak/REPORT-MAKER)**
-AI-powered DOCX report rewriting tool that regenerates content while preserving original formatting.
+AI-powered DOCX rewriting while preserving Microsoft Word formatting using XML manipulation.
 `React` `Node.js`
 
 **[Vickrey Sealed Bid Auction](https://github.com/sathviksnayak/vickrey-sealed-bid-auction)**
-A Solidity implementation of a sealed-bid, second-price auction using a commit-reveal scheme.
+Commit-reveal auction smart contract implementing a second-price auction in Solidity.
 `Solidity` `Hardhat`
 
 ---
@@ -28,13 +41,12 @@ A Solidity implementation of a sealed-bid, second-price auction using a commit-r
 ### Current Focus
 
 - Learning Next.js
-- Building full-stack applications
-- Strengthening DSA and competitive programming skills
+- Building full-stack projects
+- Solving LeetCode
 
 ---
 
 ### Contact
 
-- GitHub: [@sathviksnayak](https://github.com/sathviksnayak)
 - LinkedIn: [Sathvik S Nayak](https://www.linkedin.com/in/sathvik-s-nayak-4bb0b0291/)
 - Email: nayaksathvik258@gmail.com
